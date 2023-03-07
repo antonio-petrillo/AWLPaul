@@ -1,0 +1,10 @@
+#+title: Readme
+
+* AWLPaul
+3d printed handired keyboard by [[https://github.com/AlfieLockrey/AWLPaul][ALfieLockrey]].
+My implementation, instead of [[https://qmk.fm/][QMK]] it use [[https://github.com/KMKfw][KMK]] and a raspberry pi pico.
+If you end up here please don't use my code (it's for your own sanity), I've made a terrible switch matrix hence the code is a little bit rough hence the code is a little bit rough.
+
+[[./images/awl-paul-top.jpg]]
+
+My phone sucks, I can't take a better picture.
