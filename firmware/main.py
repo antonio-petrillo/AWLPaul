@@ -56,8 +56,8 @@ keyboard.keymap = [
         KC.ESC   , KC.N1   , KC.N2   , KC.N3   , KC.N4   , KC.N5   , KC.N6   , KC.N7   , KC.N8   , KC.N9   , KC.N0   , KC.MINS  , KC.EQL   , KC.BSPC  , _NONE_  , KC.DEL  ,
         KC.TAB   , KC.Q    , KC.W    , KC.E    , KC.R    , KC.T    , KC.Y    , KC.U    , KC.I    , KC.O    , KC.P    , KC.LBRC  , KC.RBRC  , KC.BSLS  , _NONE_  , KC.PGUP ,
         KC.LCTL  , KC.A    , KC.S    , KC.D    , KC.F    , KC.G    , KC.H    , KC.J    , KC.K    , KC.L    , KC.SCLN , KC.QUOT  , _NONE_   , KC.ENT   , _NONE_  , KC.PGDN ,
-        KC.LSFT  , KC.Z    , KC.X    , KC.C    , KC.V    , _NONE_  , KC.B    , KC.N    , KC.M    , KC.COMM , KC.DOT  , KC.SLSH  , KC.RSFT  , _NONE_   , KC.UP   , _NONE_  ,
-        KC.HYPR  , KC.LALT , KC.LGUI , _NONE_  , KC.SPC  , _NONE_  , KC.GRV  , FNLYR   , _NONE_  , KC.RALT , _NONE_  , METALYR  , KC.RCTL  , KC.LEFT  , KC.DOWN , KC.RGHT ,
+        KC.LSFT  , KC.Z    , KC.X    , KC.C    , KC.V    , _NONE_  , KC.GRV  , KC.N    , KC.M    , KC.COMM , KC.DOT  , KC.SLSH  , KC.RSFT  , _NONE_   , KC.UP   , _NONE_  ,
+        KC.HYPR  , KC.LALT , KC.LGUI , _NONE_  , KC.SPC  , _NONE_  , KC.B  , FNLYR   , _NONE_  , KC.RALT , _NONE_  , METALYR  , KC.RCTL  , KC.LEFT  , KC.DOWN , KC.RGHT ,
     ],
     [
         KC.ESC   , KC.F1   , KC.F2   , KC.F3   , KC.F4   , KC.F5   , KC.F6   , KC.F7   , KC.F8   , KC.F9   , KC.F10  , KC.F11   , KC.F12   , TRASP    , _NONE_  , TRASP   ,
